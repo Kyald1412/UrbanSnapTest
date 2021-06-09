@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  UrbanSnapTesting
+//  spaceship-gitmission
 //
-//  Created by Dhiky Aldwiansyah on 09/06/21.
+//  Created by zein rezky chandra on 26/05/21.
 //
 
 import UIKit
